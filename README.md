@@ -59,6 +59,7 @@ In the case of Tensorpack, the correct version is not available through conda. T
 pip install opencv-python==3.4.2.17
 pip install tensorpack==0.8.9
 apt-get install libboost-all-dev
+download Eigen copy it in the LatentAFIS directory as EIGEN/EIGEN/....
 ```
 
 Change ``` afis.config ``` file for your custom path.
