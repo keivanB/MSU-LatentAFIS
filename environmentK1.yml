@@ -2,6 +2,7 @@ name: latentafis
 channels:
   - conda-forge
   - defaults
+  - anaconda
 dependencies:
   - gdb=8.2=py27h4bd59f5_0
   - libgfortran=3.0.0=1
