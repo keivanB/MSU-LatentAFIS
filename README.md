@@ -43,7 +43,7 @@ Further detailed instructions for installation and use can be found in the [User
 Short instructions:
 Use this command to create the environment and install the packages:
 ```
-conda env create -n latentafis -f environment.yml
+conda env create -n latentafis -f environmentK1.yml
 ```
 After conda is finished creating the environment and installing the packages, activate the new environment:
 ```
